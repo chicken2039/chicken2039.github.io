@@ -1,0 +1,22 @@
+body {
+    background-color: #359e8f
+}
+header {
+    background-color: azure;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+    font-family: 'Jua', sans-serif;
+}
+section {
+    background-color: azure;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
+footer {
+    background-color: azure;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
